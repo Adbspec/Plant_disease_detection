@@ -1,3 +1,24 @@
+# Plant Disease Detection System
+
+The Plant Disease Detection System combines a user-friendly Svelte JS frontend with a powerful FastAPI backend using a CNN in TensorFlow. It allows users to upload plant leaf images to determine their health status accurately. This integration aims to aid farmers and researchers in monitoring and safeguarding plant health for sustainable agriculture practices.
+
+The system consists of two parts: a backend developed using FastAPI and Python, and a frontend developed using Svelte JS. The backend uses a Convolutional Neural Network (CNN) 
+
+## What I learned
+
+During the development of the Plant Disease Detection System, several valuable lessons were gained:
+
+- **Deep Learning with CNNs:** Implementing Convolutional Neural Networks (CNNs) in TensorFlow for image classification tasks helped to understand the power of deep learning and its potential in solving real-world problems.
+
+- **Backend Development with FastAPI:** Creating a backend using FastAPI introduced the concept of building robust APIs with Python, enabling seamless communication between the machine learning model and other applications.
+
+- **Data Preprocessing:** Handling and preprocessing image data for training the CNN, including data augmentation techniques, was crucial to improve the model's performance.
+
+- **Virtual Environments:** Utilizing virtual environments with Python (venv) helped manage dependencies effectively and isolate project environments.
+
+- **Model Deployment:** Deploying the trained CNN model as an API allowed us to integrate machine learning into web applications for practical use.
+
+The experience gained from developing the Plant Disease Detection System deepened the understanding of machine learning, API development, and project management, providing valuable skills for future projects in related fields.
 
 ## Prerequisites
 
